@@ -5,8 +5,7 @@
     <title>Progate</title>
   </head>
   <body>
-    <h1 class="title">HTML & CSS の開発環境を用意しよう！</h1>
-    <p>自分のPCでWebページを開発する方法を学習しましょう</p>
+    <h1 class="title">まろの可愛い写真！</h1>
     <div class="maro-photo">
       <img src="maro.jpg">
     </div>
